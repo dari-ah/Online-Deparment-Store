@@ -1,4 +1,4 @@
-# Deparment-Sale-Analysis
+# Deparment Sale Analysis
   In this project, I analyzed the sales record of an online department store's sales for 2021. I designed my data based on an [e-commerce dataset](https://www.kaggle.com/datasets/venkatkrishnan/ecommerce-sales-data) I found on Kaggle. Since the store has many categories, from clothing to electronics, I wanted to see how each category performed. Furthermore, I wanted to examine if the sellers were making profits.
   
  ### Table of Contents
